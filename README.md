@@ -1,2 +1,2 @@
 # MKS
-My Makersquare admin challenge stuff.
+My Makersquare admissions challenge stuff.
